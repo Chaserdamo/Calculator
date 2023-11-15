@@ -28,4 +28,4 @@ The calculator is styled using CSS, providing a visually appealing and responsiv
 
 Thank you for checking out the Calculator project! Happy calculating! 🧮✨
 
-![CalculatorHeaderProject](https://github.com/Chaserdamo/Calculator/assets/117109722/6db77b7e-7592-4d59-8577-77eae9c66726)
+![CalculatorHeaderProject](https://github.com/Chaserdamo/Calculator/blob/4b495f6483fa7505ca76b2c1a377ea0d1cf20395/img/CalculatorHeaderProject.png)
