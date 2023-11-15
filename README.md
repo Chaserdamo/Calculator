@@ -33,7 +33,7 @@ The calculator is styled using CSS, providing a visually appealing and responsiv
 
 <br></br>
 Thank you for checking out the Calculator project! Happy calculating! 🧮✨
-<br>
+<br></br>
 
 
 ![CalculatorHeaderProject](https://github.com/Chaserdamo/Calculator/blob/4b495f6483fa7505ca76b2c1a377ea0d1cf20395/img/CalculatorHeaderProject.png)
