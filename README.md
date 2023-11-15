@@ -2,6 +2,8 @@
 
 Welcome to the Calculator project! This repository houses a simple yet powerful calculator designed for basic mathematical operations. The project includes both the HTML structure and the JavaScript logic for the calculator, offering a clean and user-friendly interface.
 
+
+<br></br>
 ## Features
 
 
@@ -29,9 +31,9 @@ The logic for capturing button clicks, handling input, and performing calculatio
 The calculator is styled using CSS, providing a visually appealing and responsive design. Styles are defined in the style.css file.
 
 
-
+<br></br>
 Thank you for checking out the Calculator project! Happy calculating! 🧮✨
-
+<br>
 
 
 ![CalculatorHeaderProject](https://github.com/Chaserdamo/Calculator/blob/4b495f6483fa7505ca76b2c1a377ea0d1cf20395/img/CalculatorHeaderProject.png)
